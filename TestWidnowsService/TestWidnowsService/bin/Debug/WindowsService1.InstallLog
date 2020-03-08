@@ -1,0 +1,1018 @@
+﻿Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = PARAMETR
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = PARAMETR
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = PARAMETR
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = PARAMETR
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi MyFirstService.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Nie można znaleźć instalatorów publicznych z atrybutem RunInstallerAttribute.Yes w zestawie I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   parm1 = auto
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   parm1 = auto
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła MyFirstService.
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   param1 = auto
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Ostrzeżenie: źródło MyFirstService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi MyFirstService z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Nie można utworzyć wystąpienia typu instalatora WindowsService1.ProjectInstaller.
+System.Reflection.TargetInvocationException: Obiekt docelowy wywołania zgłosił wyjątek.
+Zgłoszono wyjątek wewnętrzny System.NullReferenceException z następującym komunikatem o błędzie: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu..
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Nie można utworzyć wystąpienia typu instalatora WindowsService1.ProjectInstaller.
+System.Reflection.TargetInvocationException: Obiekt docelowy wywołania zgłosił wyjątek.
+Zgłoszono wyjątek wewnętrzny System.NullReferenceException z następującym komunikatem o błędzie: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu..
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Nie można utworzyć wystąpienia typu instalatora WindowsService1.ProjectInstaller.
+System.Reflection.TargetInvocationException: Obiekt docelowy wywołania zgłosił wyjątek.
+Zgłoszono wyjątek wewnętrzny System.NullReferenceException z następującym komunikatem o błędzie: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu..
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła MyFirstService.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła MyFirstService.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Podczas fazy wycofywania instalatora System.ServiceProcess.ServiceProcessInstaller wystąpił wyjątek.
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+Podczas fazy wycofywania instalacji wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a wycofywanie będzie kontynuowane. Jednak po ukończeniu wycofywania komputer może nie powrócić całkowicie do stanu początkowego.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi MyFirstService.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła MyFirstService.
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi MyFirstService.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi MyFirstService.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi MyFirstService.
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Ostrzeżenie: źródło MyFirstService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi MyFirstService z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi MyFirstService.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi MyFirstService.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła MyFirstService.
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Nie można utworzyć wystąpienia typu instalatora WindowsService1.ProjectInstaller.
+System.Reflection.TargetInvocationException: Obiekt docelowy wywołania zgłosił wyjątek.
+Zgłoszono wyjątek wewnętrzny System.Exception z następującym komunikatem o błędzie: Zgłoszono wyjątek typu 'System.Exception'..
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Nie można utworzyć wystąpienia typu instalatora WindowsService1.ProjectInstaller.
+System.Reflection.TargetInvocationException: Obiekt docelowy wywołania zgłosił wyjątek.
+Zgłoszono wyjątek wewnętrzny System.Exception z następującym komunikatem o błędzie: Zgłoszono wyjątek typu 'System.Exception'..
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Nie można utworzyć wystąpienia typu instalatora WindowsService1.ProjectInstaller.
+System.Reflection.TargetInvocationException: Obiekt docelowy wywołania zgłosił wyjątek.
+Zgłoszono wyjątek wewnętrzny System.Exception z następującym komunikatem o błędzie: Zgłoszono wyjątek typu 'System.Exception'..
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Nie można utworzyć wystąpienia typu instalatora WindowsService1.ProjectInstaller.
+System.Reflection.TargetInvocationException: Obiekt docelowy wywołania zgłosił wyjątek.
+Zgłoszono wyjątek wewnętrzny System.Exception z następującym komunikatem o błędzie: Zgłoszono wyjątek typu 'System.Exception'..
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Ostrzeżenie: źródło MyFirstService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi MyFirstService z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Ostrzeżenie: źródło MyFirstService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi MyFirstService z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Ostrzeżenie: źródło MyFirstService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi MyFirstService z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Podczas fazy wycofywania instalatora WindowsService1.ProjectInstaller wystąpił wyjątek.
+System.ArgumentException: Słownik savedState nie zawiera oczekiwanych wartości i mógł zostać uszkodzony.
+Podczas fazy wycofywania instalacji wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a wycofywanie będzie kontynuowane. Jednak po ukończeniu wycofywania komputer może nie powrócić całkowicie do stanu początkowego.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Podczas fazy wycofywania instalatora WindowsService1.ProjectInstaller wystąpił wyjątek.
+System.ArgumentException: Słownik savedState nie zawiera oczekiwanych wartości i mógł zostać uszkodzony.
+Podczas fazy wycofywania instalacji wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a wycofywanie będzie kontynuowane. Jednak po ukończeniu wycofywania komputer może nie powrócić całkowicie do stanu początkowego.
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Ostrzeżenie: źródło MyFirstService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi MyFirstService z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Zatwierdzanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Podczas fazy wycofywania instalatora WindowsService1.ProjectInstaller wystąpił wyjątek.
+System.ArgumentException: Słownik savedState nie zawiera oczekiwanych wartości i mógł zostać uszkodzony.
+Podczas fazy wycofywania instalacji wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a wycofywanie będzie kontynuowane. Jednak po ukończeniu wycofywania komputer może nie powrócić całkowicie do stanu początkowego.
+Odinstalowywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Usuwanie źródła EventLog MyFirstService.
+Ostrzeżenie: źródło MyFirstService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi MyFirstService z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Podczas fazy wycofywania instalatora WindowsService1.ProjectInstaller wystąpił wyjątek.
+System.ArgumentException: Słownik savedState nie zawiera oczekiwanych wartości i mógł zostać uszkodzony.
+Podczas fazy wycofywania instalacji wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a wycofywanie będzie kontynuowane. Jednak po ukończeniu wycofywania komputer może nie powrócić całkowicie do stanu początkowego.
+Instalowanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Trwa instalowanie usługi MyFirstService...
+Usługa MyFirstService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MyFirstService w dzienniku Application...
+Wycofywanie zestawu 'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła MyFirstService.
+Trwa usuwanie usługi MyFirstService z systemu...
+Usługa MyFirstService została pomyślnie usunięta z systemu.

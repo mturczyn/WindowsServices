@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestWidnowsService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="StartMode" Type="System.ServiceProcess.ServiceStartMode" Scope="Application">
+      <Value Profile="(Default)">Automatic</Value>
+    </Setting>
+    <Setting Name="ServiceAccount" Type="System.ServiceProcess.ServiceAccount" Scope="Application">
+      <Value Profile="(Default)">User</Value>
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">HERKULES\Michal</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">!@#Turek123</Value>
+    </Setting>
+    <Setting Name="TextToWriteToFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Some text</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

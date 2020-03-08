@@ -1,0 +1,8 @@
+I:\Test Applications\TestWidnowsService\TestWidnowsService\obj\Debug\TestWidnowsService.csprojAssemblyReference.cache
+I:\Test Applications\TestWidnowsService\TestWidnowsService\obj\Debug\TestWidnowsService.ProjectInstaller.resources
+I:\Test Applications\TestWidnowsService\TestWidnowsService\obj\Debug\TestWidnowsService.csproj.GenerateResource.cache
+I:\Test Applications\TestWidnowsService\TestWidnowsService\bin\Debug\TestWidnowsService.exe.config
+I:\Test Applications\TestWidnowsService\TestWidnowsService\bin\Debug\TestWidnowsService.exe
+I:\Test Applications\TestWidnowsService\TestWidnowsService\bin\Debug\TestWidnowsService.pdb
+I:\Test Applications\TestWidnowsService\TestWidnowsService\obj\Debug\TestWidnowsService.exe
+I:\Test Applications\TestWidnowsService\TestWidnowsService\obj\Debug\TestWidnowsService.pdb

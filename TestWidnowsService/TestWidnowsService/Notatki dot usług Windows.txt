@@ -1,0 +1,36 @@
+﻿We właściowsciach projektu należy ustawić StartUp object.
+
+WYJĄTKI w instalatorze i przy starcie usługi
+Wyjątek przy starcie usługi: zgłaszany jest do użytkownika, powstrzymuje przed uruchomieniem usługi.
+Można wychwycić i samemu zatrzymać usługę. Też o tym poinformuje wtedy użytjownika, jeśli się zatrzyma usługę.
+W skrypcie można wystartować też usługę i ona zgłosi błąd jakby się nie udało.
+Można wyświetlać wiadomości z PowerShella, więc jakby co poinformujemy użytkownika o błędach.
+
+Wyjątek przy instalacji:
+Jak instalacja się nie powiedzie, to zostanie ona wycofana (transakcyjna instalacja).
+Jest to najklepszy sposób obsługi wyjątków w usłudze, bo zostanie przekazany spowrotem do skryptu (użytkownika shella).
+W innym wypadku jest metoda Rollback w ProcessInstallator, jednak nie można mu dostarczyć odpowiedniego argumentu (występuje potem komunikat o niemożlwiości przywrócenia komputra do poprzedniego stanu).
+
+Trzeba wywołać metodę base.Install() w ProcessInstalatorze, bo wtedy zapiszę nam się w parametrze stan komputera, i nie będziemy mieli komunikatu o niemożlwiości przywrócenia komputra do poprzedniego stanu.
+
+Dezinstalacja musi się odbyć na starym pliku usługi, ponieważ jak instalator (ProcessInstallator) zgłosi wyjątek, to, ponieważ jest on wykorzystywany
+nawet przy dezinstalacji, to dlatego się operacja dezinstalacji nie powiedzie. Jeśli nowy instalator ma wyjątek, to po prostu usługa
+się nie zainstaluje.
+
+Usługa wskazuje na plik podany przy poleceniu InstallUtil skryptu, czyli na nasz exec z builda.
+Sam InstallUtil przechowuje potem tam swoje pliki jak:
+-log,
+-informacje o dezinstalacji.
+
+Ponadto, instalacja jest transakcyjna, czyli jak się coś wykrzaczy, to sprząta po sobie.
+
+Instalator:
+- jak instalator zgosi wyjątek, to jest instalacja wycofywana (transakcyjna instalacja).
+
+Rejestr:
+- instalator dodaje wpisy w rejestrze
+- usuwanie je usuwa
+
+Usługa na starcie się melduje oraz przy stopie też odnotowuje to w zdarzeniach systemowych.
+
+.\InstallUtil.exe -u  'I:\Test Applications\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'
